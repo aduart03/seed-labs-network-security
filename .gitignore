@@ -1,0 +1,17 @@
+# macOS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Docker volumes (generated at runtime)
+volumes/
+
